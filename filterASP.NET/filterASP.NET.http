@@ -1,0 +1,6 @@
+@filterASP.NET_HostAddress = http://localhost:5234
+
+GET {{filterASP.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
